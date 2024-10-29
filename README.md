@@ -11,7 +11,7 @@ In this project, I developed and retrained the ASLLVD dataset for sign language 
 
 - **Video Cutting**: Utilized the start and end times from the annotations to cut the videos into segments that correspond to specific sign language samples.
 
-- **Feature Extraction**: Employed the R2+1D model to extract features from the segmented videos and compressed these features into .train files for subsequent model training.
+- **Feature Extraction**: Employed the R(2+1)D model to extract features from the segmented videos and compressed these features into .train files for subsequent model training.
 
 - **Model Training**: Implemented the training process using the modified code based on [Joey NMT](https://github.com/joeynmt/joeynmt) to achieve joint continuous sign language recognition and translation.
  
