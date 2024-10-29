@@ -7,7 +7,7 @@ This code is based on [Joey NMT](https://github.com/joeynmt/joeynmt) but modifie
 ## Description
 In this project, I developed and retrained the ASLLVD dataset for sign language recognition and translation using Transformer-based models. The key steps in the process include:
 
-- **Data Access and Annotation Extraction**: Accessed the ASLLVD dataset annotations to identify and extract relevant video data.
+- **Data Access and Annotation Extraction**: Accessed the ASLLVD dataset annotations to identify and extract relevant video data from the [Dai ASLLVD Glossing with Variations](http://www.bu.edu/asllrp/dai-asllvd-BU_glossing_with_variations_HS_information-extended-urls-RU.xlsx).
 
 - **Video Cutting**: Utilized the start and end times from the annotations to cut the videos into segments that correspond to specific sign language samples.
 
