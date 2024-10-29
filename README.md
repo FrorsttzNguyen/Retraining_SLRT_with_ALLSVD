@@ -1,4 +1,4 @@
-# Sign Language Transformers (CVPR'20)
+# Developing and Retraining the ASLLVD Dataset for Transformer-based Sign Language Recognition and Translation (CVPR 2020)
 
 This repo contains the training and evaluation code for the paper [Sign Language Transformers: Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation](https://www.cihancamgoz.com/pub/camgoz2020cvpr.pdf). 
 
